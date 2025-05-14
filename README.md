@@ -7,10 +7,7 @@ This repository contains the deployment setup for a MERN stack blog application 
 ### Table of Contents
 - [Architecture](#architecture)
 - [Deployment Steps](#deployment-steps)
-- [Screenshots](#screenshots)
 - [Cleanup](#cleanup)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Architecture
 
